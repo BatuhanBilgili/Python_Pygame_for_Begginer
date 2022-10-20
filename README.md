@@ -1,2 +1,2 @@
-# Python_Pygame_for_Begginer
+# Python Pygame For Begginer
 simple game with pygame which is python library
